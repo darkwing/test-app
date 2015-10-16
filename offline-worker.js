@@ -27,7 +27,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["/index.html","3247d0b3d08c12327499bf0767e2eeeb"],["/js/offline-manager.js","28bd78ca4fcf8ae2b562c51a1cd2f5d3"]];
+var PrecacheConfig = [["/index.html","6c8a0c81d79e0972b9d312a96b71d33b"],["/js/offline-manager.js","28bd78ca4fcf8ae2b562c51a1cd2f5d3"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1--' + (self.registration ? self.registration.scope : '') + '-';
 
